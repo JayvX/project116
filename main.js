@@ -38,6 +38,6 @@ function draw(){
     image(clown_nose, noseX, noseY, 80, 60);
 }
 
-function takeSnapshot(){
+function take_snapshot(){
     save('MyFilterImage.png');
 }
